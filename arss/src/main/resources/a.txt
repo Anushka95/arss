@@ -1,0 +1,3 @@
+"Kusal Chamith" "Civil Engineering" "Engineering"
+"Anjana Kusha" "Survaying" "Maths"
+"Ishara Sewwandi" "Nursing" "Medicine"
